@@ -7,7 +7,3 @@ Formerly:
 - [muzmatch](https://muzmatch.com) :balloon:
 - [Car Throttle](https://www.carthrottle.com/) / [WTF1](https://wtf1.com) :racing_car:
 - [My Voucher Codes](https://www.myvouchercodes.co.uk/) :label:
-
-More things to read:
-
-- [jdrydn.writeas.com](https://jdrydn.writeas.com)
