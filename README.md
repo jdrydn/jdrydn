@@ -4,8 +4,8 @@ Currently **Principal Software Engineer** at [BPP Education Group](https://www.b
 
 Formerly:
 
-- [Fig Finance](https://figfinance.io) / [Tech City Ventures](https://techcity.ventures) 📉
-- [Real Links](https://www.reallinks.io) 🚀
-- [muzmatch](https://muzmatch.com) 🎈
-- [Car Throttle](https://www.carthrottle.com/) / [WTF1](https://wtf1.com) 🏎️
-- [My Voucher Codes](https://www.myvouchercodes.co.uk/) / [MyDeals](https://www.mydeals.com/) 🏷️
+- [Tech City Ventures](https://www.linkedin.com/company/techcityventures/) ([Fig Finance](https://www.linkedin.com/company/figfinance/)) 📉
+- [Real Links](https://www.linkedin.com/company/real-links/) 🚀
+- [muzmatch](https://www.linkedin.com/company/muzz/) 🎈
+- [Car Throttle](https://www.linkedin.com/company/car-throttle/) / [WTF1](https://www.linkedin.com/company/wtf1/) 🏎️
+- [My Voucher Codes](https://www.linkedin.com/company/myvouchercodes/) / MyDeals 🏷️
